@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Egool
+        psr4_prefix: Egool
+        src_path: app

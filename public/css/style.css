@@ -1,0 +1,108 @@
+
+.global{
+    width: 100%;
+    /*border: 1px solid red;*/
+}
+
+.container{
+    padding:0;
+    width: 80%;
+    /*border: 1px solid blue;*/
+}
+
+.col_lg{
+    width: 47px;
+}
+
+.container .tabClass{
+    float: left;
+    width: 700px;
+    /*border: 1px solid red;*/
+}
+.tabtr{
+    font-size: 11px;
+    height: 40px;
+    color: #999999;
+    font-family: 'Times New Roman', Verdana, Arial, Helvetica, sans-serif;
+}
+.tabtr .th{
+    vertical-align: middle;
+}
+
+.tabtd{
+    font-size: 11pt;
+}
+.td1{
+    background-color: #F5F5F5;
+}
+
+.row_td{
+    height: 56px;
+}
+
+.container .tabJogos{
+    /*border: 1px solid;*/
+    width: 340px;
+    margin-left: 20px;
+    position: relative;
+    float: left;
+}
+
+.time1{
+    vertical-align: bottom;
+    width: 105px;
+    text-align: center;
+    /*border: 1px solid red;*/
+    margin-top: 40px;
+    float: left;
+
+}
+.time2{
+    width: 105px;
+    text-align: center;
+    /*border: 1px solid blue;*/
+    margin-top: 40px;
+    float: right;
+    position: relative;
+
+}
+.placar_jogo_informacoes{
+
+}
+
+.placar_jogo_sigla1{
+    width: 30px;
+    height: 30px;
+    /*border: 1px solid;*/
+    margin-left: 20px;
+    float: left;
+}
+
+.placar_jogo_item1{
+    width: 47px;
+    font-size: 14pt;
+    font-family: Corbel, Helvetica, Arial, sans-serif;
+    margin-top: 12px;
+    /*border: 1px solid;*/
+    float: left;
+    text-align: left;
+}
+
+.placar_jogo_sigla2{
+    width: 30px;
+    height: 30px;
+    /*border: 1px solid;*/
+    margin-left: 1px;
+    float: left;
+}
+
+.placar_jogo_item2{
+    width: 47px;
+    font-size: 14pt;
+    font-family: Corbel, Helvetica, Arial, sans-serif;
+    margin-top: 12px;
+    /*border: 1px solid;*/
+    float: right;
+    text-align: right;
+
+}
